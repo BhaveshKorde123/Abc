@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+Built-By: boni
+Build-Jdk: 1.8.0_312
+Main-Class: io.github.bonigarcia.wdm.WebDriverManager
+Can-Redefine-Classes: true
+Can-Retransform-Classes: true
+Premain-Class: io.github.bonigarcia.wdm.WdmAgent
+
